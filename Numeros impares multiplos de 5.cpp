@@ -9,5 +9,5 @@ int contador;
 
              printf("ACABOU !!!!\n");
              system("title Numeros impares multiplos de 5");
-	 system(" start chrome.exe https://github.com/Gezuis/Telematica-2022.2/blob/main/%C3%8Dmpares.cpp");
+	 system(" start chrome.exe https://github.com/Gezuis/Telematica-2022.2/edit/main/Numeros%20impares%20multiplos%20de%205.cpp ");
          }
