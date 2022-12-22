@@ -1,5 +1,5 @@
-# Telematica-2022.2
-Evoluindo na programação
+// Telematica-2022.2
+// Evoluindo na programação
 
 #include <locale.h>
 #include <stdio.h>
