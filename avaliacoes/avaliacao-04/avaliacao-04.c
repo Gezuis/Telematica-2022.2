@@ -1,4 +1,4 @@
-# Telematica-2022.2
+# Telematica-2022.2 (19/10/2022)
 Evoluindo na programação
 
 #include <stdio.h>
